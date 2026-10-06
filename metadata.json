@@ -1,0 +1,6 @@
+{
+  "name": "Privacy",
+  "description": "Red social estrictamente privada, personal y exclusiva con identidad estética, minimalista y lettering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
